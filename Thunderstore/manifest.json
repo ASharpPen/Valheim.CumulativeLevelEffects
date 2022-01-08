@@ -1,0 +1,9 @@
+{
+  "name": "Cumulative_LevelEffects",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ASharpPen/Valheim.CumulativeLevelEffects",
+  "description": "Modder resource. Lets LevelEffects enable gameobjects pr star.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1601"
+  ]
+}
